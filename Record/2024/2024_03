@@ -1,0 +1,26 @@
+# 03/05
+
+test 확인 해볼것
+
+```cs
+public class DataSet
+{
+    public string id = string.Empty;
+    public List<AAAA> aaaa_list = new List<AAAA>();
+    public List<BBBB> bbbb_list = new List<BBBB>();
+    public List<CCCC> cccc_list = new List<CCCC>();
+    public List<DDDD> dddd_list = new List<DDDD>();
+}
+
+
+public class AAAA
+{
+    public string id = string.Empty;
+    public string name = string.Empty;
+    public List<AEEE> aeeelist = new List<AEEE>();
+}
+```
+
+이런 구조로 만들면 aaaa_list 안에 aeeelist들이 들어갈 거임.
+그러면 aeeelist를 먼저 Clear()하고 나서 aaaa_list를 Clear()하는 게 좋음?
+아니면 그냥 aaaa_list만 Clear()해도 됨?

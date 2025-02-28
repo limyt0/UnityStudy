@@ -19,7 +19,7 @@
 
 
 <details>
-<summary> 1. 이동 구현 </summary>
+<summary> 2. Transform </summary>
 <div markdown="1">
 
 - 기본 이동 구현
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary> 2. UI관련 </summary>
+<summary> 3. UI관련 </summary>
 <div markdown="1">
 
 - Panel 관련 - 반응형, pivot 등등
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary> 3. 도형 그리기 </summary>
+<summary> 4. 도형 그리기 </summary>
 <div markdown="1">
 
 - Linerenderer or Projector or decal로 도형 그리기, 정사영 등.
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary> 4. 디자인 패턴 </summary>
+<summary> 5. 디자인 패턴 </summary>
 <div markdown="1">
 
 - MVC 패턴
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary> 5. File입출력, 데이터 입출력 및 네트워크 </summary>
+<summary> 6. File입출력, 데이터 입출력 및 네트워크 </summary>
 <div markdown="1">
 
 - File 불러오기, 쓰기
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary> 6. Input 관련 </summary>
+<summary> 7. Input 관련 </summary>
 <div markdown="1">
 
 - input system -
@@ -91,10 +91,10 @@
 </details>
 
 <details>
-<summary> ㅎ </summary>
+<summary> 8. 작성예정 </summary>
 <div markdown="1">
 
-- 
+- 예정
   
 </div>
 </details>

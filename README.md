@@ -75,6 +75,7 @@
 - File 불러오기, 쓰기
 - json 불러오기, 쓰기
 - csv.
+- Redis
 - API 활용, DB 불러오기(SQL문 활용, 바이트 데이터 등등)
 - HttpClient
 - 파일 다운로드, 파일 업로드(바이트 변환, 이미지 등등) - 이미지 포맷 및 RGBTest

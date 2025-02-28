@@ -9,11 +9,12 @@
 3. 새로 배운 것 적용해보기
 
 <details>
-<summary> 1. 기본 에러 대처 </summary>
+<summary> 1. 유니티 기본 </summary>
 <div markdown="1">
 
 - Error 체크 - Equal 관계
 - Crash 났을 때 확인 법:
+- 자료구조 활용(Dictionary, Map 등)
 </div>
 </details>
 
@@ -40,6 +41,7 @@
 - 페이징 구현
 - Hover UI가 1번만 호출되도록 -> SetActive 한번만 하기
 - UI크기가 바꾸면 호출하기
+- OnGUI
   
 </div>
 </details>
